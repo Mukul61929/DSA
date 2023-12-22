@@ -10,7 +10,7 @@ def insertion_sort(arr):
 
         arr[j + 1] = key
 
-# Example usage:
+# Input list values:
 unsorted_list = []
 n=int(input("Enter the size of the list: "))
 for i in range(n):
